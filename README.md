@@ -20,11 +20,11 @@ Or install it yourself as:
 
 ### Instructions Possible
 
-* ** PLACE **   - Used to Place the Robot within the boundaries
-* ** MOVE **    - Used to move the robot forward one unit with respect to its orientation
-* ** LEFT **    - Used to turn the Robot Left
-* ** RIGHT **   - Used to turn the Robot Right
-* ** REPORT **  - Used to Report the current x,y and orientation of the Robot
+* **PLACE**   - Used to Place the Robot within the boundaries
+* **MOVE**    - Used to move the robot forward one unit with respect to its orientation
+* **LEFT**    - Used to turn the Robot Left
+* **RIGHT**   - Used to turn the Robot Right
+* **REPORT**  - Used to Report the current x,y and orientation of the Robot
 
 ## Contributing
 
