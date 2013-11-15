@@ -1,4 +1,4 @@
-# ToyRobot
+# ToyRobot [![Code Climate](https://codeclimate.com/github/dinks/toy_robot.png)](https://codeclimate.com/github/dinks/toy_robot)
 
 * The application is a simulation of a toy robot moving on a square tabletop
 
